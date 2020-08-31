@@ -6,6 +6,7 @@ html, body {
 
 h1 {
     text-align: center;
+    margin-top: 10px;
     margin-bottom: 0px;
 }
 
@@ -23,8 +24,8 @@ h1 {
     margin-bottom: 30px;
     margin: 0 auto;
     float: center;
-    height: 5rem;
-    width: 12rem;
+    height: 90px;
+    width: 180px;
     margin-bottom: 15px;
     font-family: 'Raleway', sans-serif;
     font-size: 1.3rem;
@@ -35,7 +36,6 @@ h1 {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    max-height: 10px;
 }
 
 #default-style,
